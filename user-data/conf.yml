@@ -1,11 +1,19 @@
 appConfig:
-  title: "⌨️ yeeee Cybercore"
-  theme: dracula
-  customColors:
-    dracula:
-      primary: "#ff9df7"      # Bubblegum pink accents
-      background: "#190036"   # Deep cyber‑purple base
+  appConfig:
   layout: minimal
+  title: "⌨️ WaifuOS Terminal"
+  theme: glass
+  enableSearch: true
+  showSearchInNav: true
+  showNav: false
+  showHeader: false
+  showFooter: false
+  showSettings: false
+  showConfigEditor: false
+  showThemeSwitcher: false
+  showItemSizeSelector: false
+  showLayoutSelector: false
+  showColorPicker: false
 
 sections:
   - name: Commands
